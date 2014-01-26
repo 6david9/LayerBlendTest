@@ -52,7 +52,12 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <view contentMode="scaleToFill" id="XSU-HK-IzM" customClass="CBCustomView">
-                                <rect key="frame" x="20" y="237" width="160" height="70"/>
+                                <rect key="frame" x="20" y="237" width="160" height="33"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                            </view>
+                            <view alpha="0.79999999999999982" contentMode="scaleToFill" id="3Pc-Sl-rNv" customClass="CBCustomView">
+                                <rect key="frame" x="20" y="274" width="160" height="33"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                             </view>
